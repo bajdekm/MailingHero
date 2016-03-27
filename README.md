@@ -1,16 +1,5 @@
-Example Spring Boot Security
+MailingHero Application
 ============================
-
-The application showing how to use Spring Boot with Spring Security for common needs, such as:
-
-* Customized login form
-* DAO-based authentication
-* Basic "remember me" authentication
-* URL-based security
-* Method-level security
-
-See the [Spring Boot Security Application](http://kielczewski.eu/2014/12/spring-boot-security-application/) article for
-commentary.
 
 Requirements
 ------------
